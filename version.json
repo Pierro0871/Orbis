@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
-  "apk": "https://raw.githubusercontent.com/Pierro0871/Orbis/main/releases/Orbis-1.5.0.apk",
-  "notes": "Tour du monde en 20 étapes, Blitz 60 s, Révision de tes erreurs, Capitales en QCM, page Mes records, titres et succès secrets."
+  "version": "1.5.1",
+  "apk": "https://raw.githubusercontent.com/Pierro0871/Orbis/main/releases/Orbis-1.5.1.apk",
+  "notes": "Jeu géo plus fluide : la carte se déplace comme une image pendant les gestes et les recadrages, et ne se redessine qu'à la fin (18 fois moins de travail graphique après chaque réponse)."
 }
