@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
-  "apk": "https://raw.githubusercontent.com/Pierro0871/Orbis/main/releases/Orbis-1.7.0.apk",
-  "notes": "63 picross détaillés en 20×20 et 25×25 avec loupe ; 6 nouveaux jeux : démineur, boussole, le compte est bon, taquin, blocs, code secret."
+  "version": "1.7.1",
+  "apk": "https://raw.githubusercontent.com/Pierro0871/Orbis/main/releases/Orbis-1.7.1.apk",
+  "notes": "Correctif : le bouton Rejouer relance bien une partie dans tous les jeux (au même niveau quand il y en a un) ; parties terminées de 2048 et Blocs plus rechargées ; appui long du démineur fiabilisé."
 }
